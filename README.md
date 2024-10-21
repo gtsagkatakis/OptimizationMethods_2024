@@ -1,1 +1,1 @@
-# OptimizationMethods_2024
+# CSD573 Optimization Methods [2024]
